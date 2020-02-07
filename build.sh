@@ -1,0 +1,1 @@
+sed -e "s|REDIRECT_TO|$REDIRECT_TO|g" index_template.html > index.html
