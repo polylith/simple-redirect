@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "https://herz.entwicklerheld.de"
-  status = 200
-  force = true
